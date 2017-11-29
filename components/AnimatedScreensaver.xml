@@ -32,7 +32,8 @@
 			height = "237"
 			translation = "[150,-450]"
 		/>
-		<Animation 
+
+		<!--<Animation 
 			id = "Poster1UpDownAnimation"
 			repeat = "true"
 			duration = "15" easeFunction = "linear" >
@@ -44,7 +45,7 @@
 			/>		
 		</Animation>
 		
-		
+		-->	
 		<Poster 
 			id = "Poster2"
 			uri = "pkg:/images/2.jpg"
@@ -52,7 +53,7 @@
 			height = "304.5"
 			translation = "[-750,600]"
 		/>
-		<Animation 
+		<!--<Animation 
 			id = "Poster2LeftRightAnimation"
 			duration = "23" easeFunction = "linear" >
 			<Vector2DFieldInterpolator
@@ -62,7 +63,7 @@
 				keyValue="[[-750,600],[2100,600]]"
 			/>		
 		</Animation>
-		
+		-->
 		
 		<Poster 
 			id = "Poster3"
@@ -71,7 +72,7 @@
 			height = "126"
 			translation = "[750,-600]"
 		/>
-		<Animation 
+		<!--<Animation 
 			id = "Poster3UpDownAnimation"
 			repeat = "true"
 			duration = "10" easeFunction = "linear" >
@@ -83,7 +84,7 @@
 			/>		
 		</Animation>
 		
-		
+		-->
 		<Poster 
 			id = "Poster4"
 			uri = "pkg:/images/4.jpg"
@@ -91,7 +92,7 @@
 			height = "337.5"
 			translation = "[-300,-450]"
 		/>
-		<Animation 
+		<!--<Animation 
 			id = "Poster4DiagonalAnimation"
 			repeat = "true"
 			duration = "30" easeFunction = "linear" >
@@ -102,7 +103,7 @@
 				keyValue="[[-300,-450],[2100,1350]]"
 			/>		
 		</Animation>
-		
+		-->
 		
 		<Poster 
 			id = "Poster5"
@@ -113,7 +114,7 @@
 		/>
 		
 		
-		<Animation 
+		<!--<Animation 
 			id = "Poster5UpDownAnimation"
 			repeat = "true"
 			duration = "12" easeFunction = "linear" >
@@ -124,7 +125,7 @@
 				keyValue="[[1200,-600],[1200,1500]]"
 			/>		
 		</Animation>
-		
+		-->
 		
 		<Poster 
 			id = "Poster6"
@@ -135,7 +136,7 @@
 		/>
 		
 		
-		<Animation 
+		<!--<Animation 
 			id = "Poster6DiagonalAnimation"
 			repeat = "true"
 			duration = "20" easeFunction = "linear" >
@@ -146,7 +147,7 @@
 				keyValue="[[-300,450],[900,-450]]"
 			/>		
 		</Animation>
-		
+		-->
 		
 		<Poster 
 			id = "Poster7"
@@ -155,7 +156,7 @@
 			height = "282"
 			translation = "[900,-600]"
 		/>
-		<Animation 
+		<!--<Animation 
 			id = "Poster7UpDownAnimation"
 			repeat = "true"
 			duration = "30" easeFunction = "linear" >
@@ -166,5 +167,6 @@
 				keyValue="[[900,-600],[900,2100]]"
 			/>		
 		</Animation>	
+		-->
 	</children>
 </component>
