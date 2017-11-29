@@ -1,3 +1,3 @@
 #!/bin/bash
 
-zip -ru ../menu.zip * -x *.sh
+zip -ru ../gsf_menu_roku.zip * -x *.sh
